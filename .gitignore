@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Generated output
+output/
+html_viewer/build/
+html_viewer/coverage/
+
+# Personal data (see the *.example files)
+config.json
+.env
+html_viewer/src/data/vcard.json
+html_viewer/public/img/profiles/*.jpg
+html_viewer/public/vcards/*.vcf
+
+# Misc
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*:Zone.Identifier

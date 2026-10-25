@@ -1,0 +1,54 @@
+{
+  "firstName": "Jane",
+  "additionalName": "Q.",
+  "lastName": "Doe",
+  "namePrefix": "Dr.",
+  "email": "jane.doe@example.com",
+  "job": "General Practitioner",
+  "role": "General medicine",
+  "photoURL": "https://example.com/profile.jpg",
+  "phones": [
+    {
+      "number": "+15555550100",
+      "type": "WORK"
+    },
+    {
+      "number": "+15555550101",
+      "type": "WhatsApp"
+    }
+  ],
+  "address": [
+    {
+      "street": "123 Main St",
+      "city": "Springfield",
+      "region": "State",
+      "zip": "00000",
+      "country": "Country",
+      "type": "Office"
+    }
+  ],
+  "social": [
+    {
+      "url": "https://instagram.com/janedoe",
+      "type": "Instagram",
+      "user": "janedoe"
+    },
+    {
+      "url": "https://www.facebook.com/janedoe",
+      "type": "Facebook",
+      "user": "janedoe"
+    },
+    {
+      "url": "https://twitter.com/janedoe",
+      "type": "Twitter",
+      "user": "@janedoe"
+    }
+  ],
+  "qr": {
+    "type": "png",
+    "color": {
+      "dark": "#460457",
+      "light": "#f6d1ff"
+    }
+  }
+}
